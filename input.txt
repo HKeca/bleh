@@ -1,0 +1,22 @@
+[
+{
+"orgName": "ABC",
+"chName": "name1",
+"chNum": "40000",
+},
+{
+"orgName": "ABC",
+"chName":"name2",
+"chNum": "5000",
+},
+{
+"orgName": "DEF",
+"chName": "name4",
+"chNum": "55000",
+},
+{
+"orgName": "DEF",
+"chName": "name5",
+"chNum": "45000",
+}
+]
