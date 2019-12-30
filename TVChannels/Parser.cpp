@@ -146,7 +146,8 @@ void Parser::parse(const std::string& fileName)  {
 			}
 		}
 	}
-
+	
+	listFile.close();
 }
 
 // This adds a channel to a org if it exists
