@@ -2,6 +2,7 @@
 
 #include <string>
 #include <vector>
+#include <sstream>
 
 #include "Channel.h"
 
@@ -13,4 +14,5 @@ public:
 	Organization(const std::string& name);
 
 	void insert(Channel channel);
+	std::string formatChannels();
 };
